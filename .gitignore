@@ -1,0 +1,8 @@
+.venv/
+*.egg-info/
+.envrc
+.pytest_cache/
+__pycache__/
+dist/
+tests/test_invoice_snapshot_latest.png
+tests/test_invoice.pdf
